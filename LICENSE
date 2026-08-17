@@ -1,0 +1,97 @@
+MIT License
+
+Copyright (c) 2026 Gramin Connect Hub
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ADDITIONAL TERMS FOR COMMERCIAL USE
+
+For commercial use of Gramin Connect Hub, the following additional terms apply:
+
+1. BANKING REGULATIONS
+   - Users must comply with all applicable banking and financial regulations
+   - Organizations must obtain appropriate banking licenses
+   - All transactions are subject to compliance requirements
+
+2. DATA PROTECTION
+   - User is responsible for GDPR/CCPA compliance
+   - Data backups must be maintained regularly
+   - Customer data must be protected per regulations
+
+3. SUPPORT & MAINTENANCE
+   - Standard support includes bug fixes and critical updates
+   - Commercial support packages available separately
+   - System maintenance is user responsibility (or contracted service)
+
+4. LIABILITY
+   - This software is provided "as-is"
+   - Limited liability for data loss (see backup procedures)
+   - No liability for regulatory compliance failures
+
+---
+
+THIRD-PARTY LICENSES
+
+This software uses the following open-source projects:
+
+### Frontend Dependencies
+- React (MIT License)
+- TypeScript (Apache 2.0)
+- Vite (MIT License)
+- Tailwind CSS (MIT License)
+- shadcn/ui (MIT License)
+- Radix UI (MIT License)
+
+### Backend Dependencies
+- Django (BSD 3-Clause License)
+- Django REST Framework (BSD License)
+- django-cors-headers (MIT License)
+- waitress (ZPL 2.1)
+
+### Desktop Runtime
+- Electron (MIT License)
+- PyInstaller (PyInstaller License)
+
+### Development Dependencies
+- Node.js (Multiple OSS Licenses)
+- Python (PSF License)
+
+All third-party licenses comply with this project's MIT license.
+See node_modules and backend/site-packages for individual licenses.
+
+---
+
+WARRANTY DISCLAIMER
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+For questions about licensing, contact:
+Email: licensing@graminconnect.local
+Phone: [Your support number]
